@@ -85,5 +85,14 @@ public static void main(String[] args) {
 	  //webhook test3 . i disconnected agent.jar in the server and trying to push this line. 
 	  //webhook test 4
 	  //Webhook test 5 slave1
+	  try {
+		  int[] numbers = {1,2,3};
+		  System.out.println(numbers[5]);
+	  }
+	  catch (Exception e) {
+		  
+		// TODO: handle exception
+		  System.out.println("get numbers only between 0-3");
+	}
 } 
 }
