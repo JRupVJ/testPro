@@ -93,6 +93,7 @@ public static void main(String[] args) {
 		  
 		// TODO: handle exception
 		  System.out.println("get numbers only between 0-3");
+		 //exception handling
 	}
 } 
 }
